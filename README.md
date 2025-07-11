@@ -30,7 +30,7 @@ To install Kiwi IRC on your own server, pre-built and ready to use installers ca
 Before you can build or start to develop on Kiwi IRC, make sure to have the following installed on your system:
 * [Nodejs](https://nodejs.org/)
 * [yarn](https://yarnpkg.com/)
-
+* [calculador de minutos](https://thecalculadoradehoras.com.br/)
 #### Building for production
 
 ``` bash
